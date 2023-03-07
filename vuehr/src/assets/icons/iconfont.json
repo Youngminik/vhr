@@ -1,0 +1,23 @@
+{
+  "id": "2848736",
+  "name": "enjoy",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3904398",
+      "name": "学生",
+      "font_class": "xuesheng",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "10463853",
+      "name": "表情",
+      "font_class": "biaoqing",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}

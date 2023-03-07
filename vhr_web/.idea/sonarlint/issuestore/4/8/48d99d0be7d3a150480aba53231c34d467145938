@@ -1,0 +1,22 @@
+
+g
+java:S1301ò"KReplace this "switch" statement by "if" statements to increase readability.(óëÕŠùÿÿÿÿ
+n	java:S135ä"YReduce the total number of break and continue statements in this loop to use at most one.(ÆÏÇg
+^
+java:S1128"CRemove this unused import 'org.springframework.util.MultiValueMap'.(·ÚÀÞùÿÿÿÿ
+n
+java:S1128"XRemove this unused import 'org.apache.commons.math3.stat.descriptive.SummaryStatistics'.(‡ûúÍ
+e
+java:S1128"JRemove this unused import 'com.example.vhr.service.PoliticsstatusService'.(ïšåÿÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(€ü¤õ
+Z
+java:S4719Ê">Replace charset name argument with StandardCharsets.ISO_8859_1(›­ª¬ÿÿÿÿÿ
+P
+java:S4719É"9Replace charset name argument with StandardCharsets.UTF_8(ˆÀŒï
+u
+java:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü¹‚Æüÿÿÿÿ
+n
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(’Ù¾‹ýÿÿÿÿ
+=	java:S131õ""Add a default case to this switch.(›‡ã¿øÿÿÿÿ
+=	java:S131¸""Add a default case to this switch.(›‡ã¿øÿÿÿÿ

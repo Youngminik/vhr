@@ -1,0 +1,9 @@
+
+?
+java:S26298"$Invoke method(s) only conditionally.(éÏ†ìıÿÿÿÿ
+
+java:S1128"fRemove this unused import 'org.springframework.boot.autoconfigure.amqp.RabbitRetryTemplateCustomizer'.(úÊïŞüÿÿÿÿ
+Q
+java:S1128";Remove this unused import 'com.example.vhr.model.RespBean'.(ÖéüÖ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‚›éüÿÿÿÿ
